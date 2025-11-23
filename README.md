@@ -89,12 +89,16 @@ Tech, creativity, faith, and personal growth — that’s the road I'm walking o
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wanzismail&theme=nord&hide_border=true&bg_color=0D1117&color=88C0D0&line=88C0D0&point=FF6B6B)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wanzismail&theme=nord&hide_border=true&bg_color=0D1117&color=88C0D0&line=88C0D0&point=FF6B6B">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wanzismail&theme=github-light&hide_border=true&bg_color=ffffff&color=24292e&line=0366d6&point=0366d6">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=wanzismail&theme=nord&hide_border=true&bg_color=0D1117&color=88C0D0&line=88C0D0&point=FF6B6B">
+</picture>
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wanzismail/wanzismail/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wanzismail/wanzismail/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wanzismail/wanzismail/output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/wanzismail/wanzismail/output/github-contribution-grid-snake.svg">
 </picture> -->
 
 <picture>
@@ -104,8 +108,6 @@ Tech, creativity, faith, and personal growth — that’s the road I'm walking o
 </picture>
 
 </div>
-
-<br/>
 
 ## 💌 Let's Build Something Amazing Together!
 
