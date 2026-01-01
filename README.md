@@ -1,7 +1,7 @@
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
        Hi, I'm Ridwan Ismail
-  <img align="right" src="https://komarev.com/ghpvc/?username=wanzismail" alt="GitHub profile views counter">
+  <img align="right" src="https://komarev.com/ghpvc/?username=awanismail" alt="GitHub profile views counter">
 </h1>
 
 > A young wanderer in search of the “Meaning of Life” through self-reflection and contemplation.
@@ -13,11 +13,11 @@ Tech, creativity, faith, and personal growth — that’s the road I'm walking o
 
 ## 🔥 Currently, I am active as</h2>
 
-- Mobile Engineer — Jabar Digital Service
+- Mobile Engineer
 - Volunteer — GDG Cloud Bandung
 - Member — YukNgaji Bandung
 - Creative Team — Shaf Pembangunan
-- Content Creator — CapCut Video Editor
+- Template Creator — CapCut Video Editor
 - and many more!
 
 ## 🛠️ Tech Arsenal
@@ -58,33 +58,33 @@ Tech, creativity, faith, and personal growth — that’s the road I'm walking o
   <tr>
     <td width="50%">
       <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wanzismail&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&icon_color=88C0D0&text_color=FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wanzismail&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292e&icon_color=0366d6&text_color=24292e&card_width=495">
-  <img alt="Ridwan Ismail GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wanzismail&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&icon_color=88C0D0&text_color=FFFFFF">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=awanismail&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&icon_color=88C0D0&text_color=FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=awanismail&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292e&icon_color=0366d6&text_color=24292e&card_width=495">
+  <img alt="Ridwan Ismail GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=awanismail&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&icon_color=88C0D0&text_color=FFFFFF">
 </picture>
     </td>
     <td width="50%">
       <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzismail&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&text_color=FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzismail&layout=compact&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=24292e&langs_count=8">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanzismail&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&text_color=FFFFFF">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=awanismail&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&text_color=FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=awanismail&layout=compact&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=24292e&langs_count=8">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awanismail&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=88C0D0&text_color=FFFFFF">
 </picture>
     </td>
   </tr>
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wanzismail&theme=nord&hide_border=true&background=0D1117&stroke=00D9FF&ring=88C0D0&fire=FF6B6B&currStreakLabel=88C0D0">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=wanzismail&theme=github-light&hide_border=true&background=ffffff&stroke=0366d6&ring=FF6B6B&fire=FF6B6B&currStreakLabel=24292e">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wanzismail&theme=nord&hide_border=true&background=0D1117&stroke=00D9FF&ring=88C0D0&fire=FF6B6B&currStreakLabel=88C0D0">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=awanismail&theme=nord&hide_border=true&background=0D1117&stroke=00D9FF&ring=88C0D0&fire=FF6B6B&currStreakLabel=88C0D0">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=awanismail&theme=github-light&hide_border=true&background=ffffff&stroke=0366d6&ring=FF6B6B&fire=FF6B6B&currStreakLabel=24292e">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=awanismail&theme=nord&hide_border=true&background=0D1117&stroke=00D9FF&ring=88C0D0&fire=FF6B6B&currStreakLabel=88C0D0">
 </picture>
 
 ### 🏆 GitHub Trophies
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wanzismail&theme=nord&no-frame=true&no-bg=true&margin-w=24&row=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=wanzismail&theme=github-light&no-frame=true&no-bg=true&margin-w=24&row=1">
-  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=wanzismail&theme=nord&no-frame=true&no-bg=true&margin-w=24&row=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=awanismail&theme=nord&no-frame=true&no-bg=true&margin-w=24&row=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=awanismail&theme=github-light&no-frame=true&no-bg=true&margin-w=24&row=1">
+  <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=awanismail&theme=nord&no-frame=true&no-bg=true&margin-w=24&row=1">
 </picture>
 
 </div>
@@ -94,21 +94,21 @@ Tech, creativity, faith, and personal growth — that’s the road I'm walking o
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wanzismail&theme=nord&hide_border=true&bg_color=0D1117&color=88C0D0&line=88C0D0&point=FF6B6B">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wanzismail&theme=github-light&hide_border=true&bg_color=ffffff&color=24292e&line=0366d6&point=FF6B6B">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=wanzismail&theme=nord&hide_border=true&bg_color=0D1117&color=88C0D0&line=88C0D0&point=FF6B6B">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=awanismail&theme=nord&hide_border=true&bg_color=0D1117&color=88C0D0&line=88C0D0&point=FF6B6B">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=awanismail&theme=github-light&hide_border=true&bg_color=ffffff&color=24292e&line=0366d6&point=FF6B6B">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=awanismail&theme=nord&hide_border=true&bg_color=0D1117&color=88C0D0&line=88C0D0&point=FF6B6B">
 </picture>
 
 <!-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wanzismail/wanzismail/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wanzismail/wanzismail/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wanzismail/wanzismail/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awanismail/awanismail/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awanismail/awanismail/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/awanismail/awanismail/output/github-contribution-grid-snake.svg">
 </picture> -->
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wanzismail/wanzismail/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wanzismail/wanzismail/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wanzismail/wanzismail/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awanismail/awanismail/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awanismail/awanismail/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/awanismail/awanismail/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
