@@ -48,7 +48,7 @@ Tech, creativity, faith, and personal growth — that’s the road I'm walking o
 
 </div>
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Tech, creativity, faith, and personal growth — that’s the road I'm walking o
   <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=awanismail&theme=nord&no-frame=true&no-bg=true&margin-w=24&row=1">
 </picture>
 
-</div>
+</div> -->
 
 ## 📈 Contribution Activity
 
