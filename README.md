@@ -13,7 +13,7 @@ Tech, creativity, faith, and personal growth — that’s the road I'm walking o
 
 ## 🔥 Currently, I am active as</h2>
 
-- Mobile Engineer
+- Mobile Engineer — MaQtab Indonesia 
 - Volunteer — GDG Cloud Bandung
 - Member — YukNgaji Bandung
 - Creative Team — Shaf Pembangunan
