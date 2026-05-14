@@ -116,6 +116,6 @@ Tech, creativity, faith, and personal growth — that’s the road I'm walking o
 ## 💌 Let's Build Something Amazing Together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awanismail)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iwanz@pm.me)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hai@awanismail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/awanismail_)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
