@@ -14,7 +14,7 @@ Tech, creativity, faith, and personal growth — that’s the road I'm walking o
 ## 🔥 Currently, I am active as</h2>
 
 - Mobile Engineer — Hariff Defense
-- Frontend Developer - PT. Lussa Teknologi Global
+- Frontend Developer — PT. Lussa Teknologi Global
 - Volunteer — GDG Cloud Bandung
 - Member — YukNgaji Bandung
 - Creative Team — Shaf Pembangunan
