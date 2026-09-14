@@ -15,7 +15,6 @@ Tech, creativity, faith, and personal growth — that’s the road I'm walking o
 
 - Mobile Engineer — Hariff Defense
 - Frontend Developer — PT. Lussa Teknologi Global
-- Volunteer — GDG Cloud Bandung
 - Member — YukNgaji Bandung
 - Creative Team — Shaf Pembangunan
 - Template Creator — CapCut Video Editor
